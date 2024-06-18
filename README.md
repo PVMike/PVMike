@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @PVMike
 - 👀 I’m interested in Homeautomation, IOBroker, RPi, PV Systems
-- 💞️ I’m looking to collaborate on integrated Home-systems, integrating PV, EV and Heating, potentially in combination with a BHKW 
+- 💞️ I’m looking to collaborate on integrated Home-system solutions
+- 💞️ I've planned, build and am running a private PV System 23kWp w/Victron 3phase ESS 3x5kW plus AC coupled Symo 10-3 w/ 32kWh Battery and AC-in coupled 5,5kW CHP (BHKW) 
